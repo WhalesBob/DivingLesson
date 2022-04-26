@@ -1,4 +1,13 @@
 .parag{
     text-align: center;
-
+}
+h1{
+    font-size: 60px;
+    color: #b22222;
+}
+p{
+    text-align: right;
+}
+h2{
+    font-size: 30px;
 }
